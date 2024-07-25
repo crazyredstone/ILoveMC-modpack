@@ -1,13 +1,13 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "1.7",
+  "currentVersion": "1.2b",
   "modpackName": "ILoveMC",
   "modpackAuthor": "RedXStone",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "modpackReleaseType": "beta",
+  "updateCheckerId": "https://raw.githubusercontent.com/crazyredstone/ILoveMC-modpack/master/",
   "advanced": {
-    "bccEnabled": false,
-    "expandButton": false,
+    "bccEnabled": true,
+    "expandButton": true,
     "updateCheckerType": 2,
     "retroWarning": false,
     "modpackMods": []

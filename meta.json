@@ -1,7 +1,10 @@
 {
 	"schemaVersion": 1,
 	"hotfixesFormat": null,
-	"versions": [
-   
-	]
+	"versions": [{
+		"id": "1.2b",
+		"releasedAt":"1721919211000",
+		"promotions":{},
+		"updateType": "major"
+	}]
   }
